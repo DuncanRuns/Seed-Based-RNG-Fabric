@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "sbrng",
+  "version": "${version}",
+  "name": "Seed Based RNG",
+  "description": "Packs the Seed Based RNG datapacks into a convenient fabric mod.",
+  "authors": [
+    "DuncanRuns"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sbrng/icon.png",
+  "environment": "*",
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.10.0"
+  }
+}
